@@ -1,2 +1,2 @@
 # patternquestion
-I have made different type of question in C++ programing 
+I have made different type of pattern question in C++ programing 
